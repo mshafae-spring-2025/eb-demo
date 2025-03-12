@@ -24,6 +24,8 @@ Tip: make sure the .ebignore is ignoring the projects venv or env directory.
 1. Get [EB CLI installed](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html)
 
 ## EB Commands
+Takes about 5 minutes to get everything started.
+
 1. eb init
 1. eb create
 1. eb open
